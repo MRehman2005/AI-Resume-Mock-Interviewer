@@ -1,0 +1,6 @@
+#Load the raw PDF
+#Extarct Text
+#Clean / Normalize Text
+#Create Chunks
+#Create Embedings
+#Store The Embedings + chunks
